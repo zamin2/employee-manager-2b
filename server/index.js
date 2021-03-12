@@ -3,7 +3,7 @@
 require('dotenv').config()
 //import the express module
 const express = require('express');
-// import the path utils from Node.
+
 const path = require('path')
 const cors = require('cors')
 const cookSession = require('cookie-session')
